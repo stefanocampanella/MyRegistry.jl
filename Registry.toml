@@ -4,3 +4,4 @@ repo = "git@github.com:stefanocampanella/MyRegistry.jl.git"
 description = "My private registry"
 
 [packages]
+8a5bafa5-7804-46e7-8ed3-a510d2efa4f5 = { name = "TemplateMatching", path = "T/TemplateMatching" }
